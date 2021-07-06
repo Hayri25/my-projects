@@ -49,4 +49,3 @@ Outputs:
       - http://${PublicAddress}
       - PublicAddress: !GetAtt WebServerHost.PublicDnsName
     Description: Kittens Carousel Application URL
-
